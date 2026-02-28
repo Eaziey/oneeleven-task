@@ -1,3 +1,6 @@
+.vscode
+frontend/.vscode
+backend/.vscode
 node_modules/
 dist/
 .env
